@@ -1,0 +1,15 @@
+C:\Users\zaboo\Desktop\AlgoCsharp\AlgoCsharp\AlgoCsharp\bin\Debug\net6.0\AlgoCsharp.exe
+C:\Users\zaboo\Desktop\AlgoCsharp\AlgoCsharp\AlgoCsharp\bin\Debug\net6.0\AlgoCsharp.deps.json
+C:\Users\zaboo\Desktop\AlgoCsharp\AlgoCsharp\AlgoCsharp\bin\Debug\net6.0\AlgoCsharp.runtimeconfig.json
+C:\Users\zaboo\Desktop\AlgoCsharp\AlgoCsharp\AlgoCsharp\bin\Debug\net6.0\AlgoCsharp.dll
+C:\Users\zaboo\Desktop\AlgoCsharp\AlgoCsharp\AlgoCsharp\bin\Debug\net6.0\AlgoCsharp.pdb
+C:\Users\zaboo\Desktop\AlgoCsharp\AlgoCsharp\AlgoCsharp\obj\Debug\net6.0\AlgoCsharp.csproj.AssemblyReference.cache
+C:\Users\zaboo\Desktop\AlgoCsharp\AlgoCsharp\AlgoCsharp\obj\Debug\net6.0\AlgoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaboo\Desktop\AlgoCsharp\AlgoCsharp\AlgoCsharp\obj\Debug\net6.0\AlgoCsharp.AssemblyInfoInputs.cache
+C:\Users\zaboo\Desktop\AlgoCsharp\AlgoCsharp\AlgoCsharp\obj\Debug\net6.0\AlgoCsharp.AssemblyInfo.cs
+C:\Users\zaboo\Desktop\AlgoCsharp\AlgoCsharp\AlgoCsharp\obj\Debug\net6.0\AlgoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\zaboo\Desktop\AlgoCsharp\AlgoCsharp\AlgoCsharp\obj\Debug\net6.0\AlgoCsharp.dll
+C:\Users\zaboo\Desktop\AlgoCsharp\AlgoCsharp\AlgoCsharp\obj\Debug\net6.0\refint\AlgoCsharp.dll
+C:\Users\zaboo\Desktop\AlgoCsharp\AlgoCsharp\AlgoCsharp\obj\Debug\net6.0\AlgoCsharp.pdb
+C:\Users\zaboo\Desktop\AlgoCsharp\AlgoCsharp\AlgoCsharp\obj\Debug\net6.0\AlgoCsharp.genruntimeconfig.cache
+C:\Users\zaboo\Desktop\AlgoCsharp\AlgoCsharp\AlgoCsharp\obj\Debug\net6.0\ref\AlgoCsharp.dll
